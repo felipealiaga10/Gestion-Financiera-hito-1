@@ -1,0 +1,452 @@
+---
+title: "El impacto de la tasa de interés en el Banco de Chile: Análisis de Variables Clave"
+author: "Felipe Aliaga"
+date: "`r Sys.Date()`"
+format: pdf
+engine: xelatex
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+## **Hito 1: Análisis del Banco de Chile (BCH) y la Tasa de Interés**
+
+### Sector: Banco de Chile (BCH)
+
+El **Banco de Chile (BCH)** es uno de los principales bancos en el
+mercado financiero chileno y forma parte del Índice de Precios
+Selectivos de Acciones (IPSA), que agrupa las acciones de las empresas
+más importantes del país. Como institución financiera líder, el Banco de
+Chile desempeña un papel crucial en el sistema bancario y en la economía
+nacional. La solidez del banco está influenciada por diversos factores
+macroeconómicos, siendo la **tasa de interés** uno de los más
+relevantes.
+
+### Variable económica: Tasa de Interés
+
+La **tasa de interés** es un factor determinante en la operación y
+rentabilidad del Banco de Chile. En el contexto bancario, la tasa de
+interés afecta directamente el costo de los préstamos, el rendimiento de
+los depósitos y, en general, las decisiones de inversión de la entidad.
+Cuando las tasas de interés aumentan, los costos de financiamiento para
+los clientes se incrementan, lo que puede reducir la demanda de
+créditos. Por otro lado, tasas más altas pueden aumentar los márgenes de
+interés neto del banco, incrementando su rentabilidad.
+
+### Factores que afectan el sector bancario
+
+Además de la tasa de interés, el **sector bancario** y el desempeño del
+Banco de Chile están influenciados por otros factores importantes:
+
+1.  **Inflación**: La inflación tiene un impacto directo en las tasas de
+    interés y en la demanda de servicios financieros. Una mayor
+    inflación suele llevar a un aumento de las tasas de interés para
+    controlar el aumento de precios, lo que puede afectar la
+    rentabilidad del banco.
+
+2.  **Crecimiento económico**: El crecimiento del Producto Interno Bruto
+    (PIB) es un indicador clave para el sector bancario. En una economía
+    en crecimiento, aumenta la demanda de créditos e inversiones, lo que
+    beneficia a las instituciones financieras. Por el contrario, una
+    desaceleración económica puede reducir la demanda de préstamos y
+    aumentar el riesgo de morosidad.
+
+3.  **Regulación financiera**: El sector bancario está altamente
+    regulado por el Banco Central de Chile y otras autoridades
+    financieras. Cambios en las políticas regulatorias, como los
+    requisitos de capital o las normativas sobre préstamos y reservas,
+    pueden afectar significativamente la operación y la estructura
+    financiera del banco.
+
+### Relación con la Tasa de Interés
+
+La **tasa de interés** no solo influye en la rentabilidad de los
+préstamos y depósitos, sino también en las expectativas de crecimiento
+del banco. En períodos de tasas bajas, los bancos pueden enfrentar
+presiones sobre sus márgenes de ganancia, lo que podría incentivarles a
+diversificar sus productos financieros o a reducir sus costos
+operativos. Por otro lado, tasas más altas suelen ser beneficiosas para
+las instituciones financieras, ya que les permiten obtener mayores
+ingresos por intereses.
+
+## Sector/Temática
+
+El **sector bancario** es uno de los pilares fundamentales del sistema
+financiero de cualquier país, proporcionando servicios clave como la
+captación de depósitos, la concesión de préstamos, y la oferta de
+productos financieros a empresas e individuos. En Chile, el Banco de
+Chile (BCH) es una de las principales entidades bancarias del país, y
+forma parte del Índice de Precios Selectivos de Acciones (IPSA). El
+sector bancario chileno está altamente desarrollado y regulado, con un
+enfoque en la estabilidad económica y la inclusión financiera.
+
+### Caracterización del Sector Bancario
+
+El sistema bancario chileno está regulado por el Banco Central de Chile
+y la Comisión para el Mercado Financiero (CMF). Estas instituciones
+aseguran que los bancos mantengan niveles adecuados de liquidez y
+capital, protegiendo así el sistema financiero de crisis económicas. El
+sector se caracteriza por una alta concentración, donde los principales
+bancos, como el Banco de Chile, el Banco Santander y el Banco BCI,
+dominan gran parte del mercado.
+
+El **Banco de Chile (BCH)** juega un papel crucial dentro de este
+sector, ofreciendo productos y servicios financieros diversificados,
+tanto a nivel minorista como corporativo. Al igual que otros bancos, el
+Banco de Chile depende de la evolución de las tasas de interés para
+gestionar su cartera de préstamos y depósitos. Además, el crecimiento
+económico, la inflación y los cambios regulatorios son factores clave
+que influyen en su desempeño.
+
+### Estudios sobre el Sector Bancario
+
+Diversos estudios han analizado la importancia del sector bancario para
+el desarrollo económico y su interrelación con variables macroeconómicas
+como la tasa de interés. Según **Mishkin (2012)** en *The Economics of
+Money, Banking, and Financial Markets*, la política monetaria y la tasa
+de interés juegan un papel crucial en la estabilidad del sistema
+bancario, afectando directamente la rentabilidad de los bancos a través
+de sus márgenes de interés neto.
+
+Otro estudio relevante es el de **Claessens y Laeven (2004)**, *What
+Drives Bank Competition?*, que examina la competencia bancaria en
+mercados emergentes, incluyendo Chile, y destaca cómo los niveles de
+competencia y la regulación financiera influyen en la eficiencia del
+sector. La investigación concluye que los cambios en las tasas de
+interés, junto con las reformas regulatorias, son factores clave para la
+competitividad del sector bancario
+
+### Relación del Banco de Chile con el Sector
+
+El **Banco de Chile** ha demostrado ser un actor resiliente en el sector
+bancario chileno, adaptándose a las fluctuaciones económicas y a los
+cambios en la política monetaria. La capacidad del banco para gestionar
+riesgos asociados a las tasas de interés y la inflación le ha permitido
+mantener su posición de liderazgo en el mercado. Además, como se
+menciona en el trabajo de **Alfaro et al. (2015)** sobre la banca
+chilena, el Banco de Chile ha sido uno de los pioneros en la adopción de
+nuevas tecnologías financieras, lo que le ha permitido mantenerse
+competitivo y ofrecer servicios financieros más eficientes
+
+En resumen, el sector bancario chileno, liderado por entidades como el
+Banco de Chile, depende de varios factores macroeconómicos, siendo la
+tasa de interés uno de los más importantes. Los estudios revisados
+destacan que la capacidad de los bancos para gestionar estos factores es
+crucial para su estabilidad y crecimiento a largo plazo.
+
+## Motivación
+
+El análisis del **Banco de Chile (BCH)** dentro del **sector bancario**
+chileno es relevante debido a la influencia de varios factores
+macroeconómicos en su operación, siendo la **tasa de interés** uno de
+los más determinantes. La tasa de interés afecta directamente la
+rentabilidad de las instituciones financieras al influir en el costo del
+crédito y el rendimiento de los depósitos. En este contexto, estudiar
+cómo las fluctuaciones de la tasa de interés impactan al Banco de Chile
+resulta crucial para comprender mejor las dinámicas del sector y las
+decisiones estratégicas de la entidad.
+
+### Relevancia de la Tasa de Interés en el Sector Bancario
+
+La **tasa de interés** es una variable clave en la actividad bancaria.
+Una tasa de interés baja puede estimular la demanda de préstamos, pero
+también reduce los márgenes de ganancia de los bancos, lo que puede
+llevar a una menor rentabilidad. Por otro lado, una tasa de interés más
+alta tiende a aumentar los ingresos por intereses de los préstamos, pero
+puede disminuir la demanda de crédito y aumentar los riesgos de impago
+por parte de los clientes. En este sentido, la capacidad de los bancos
+para gestionar las fluctuaciones de la tasa de interés es crucial para
+su sostenibilidad financiera.
+
+En el caso del Banco de Chile, su fuerte posición en el mercado le ha
+permitido adaptarse a las condiciones cambiantes del entorno económico,
+utilizando instrumentos financieros para mitigar riesgos y ajustando sus
+estrategias de financiamiento en función de las expectativas sobre las
+tasas de interés. Este enfoque se alinea con estudios como el de
+**Mishkin (2012)** en *The Economics of Money, Banking, and Financial
+Markets*, que destaca la importancia de la tasa de interés en la
+estabilidad del sistema bancario.
+
+### Motivación desde la literatura
+
+Estudios previos han resaltado la importancia de la tasa de interés en
+la rentabilidad de los bancos. **Claessens y Laeven (2004)**, en su
+artículo *What Drives Bank Competition?*, subrayan que las tasas de
+interés no solo afectan el costo del capital, sino que también influyen
+en la competitividad entre bancos. Este aspecto es particularmente
+relevante en mercados emergentes como el chileno, donde las condiciones
+macroeconómicas juegan un rol crucial en la sostenibilidad y crecimiento
+del sector bancario.
+
+Además, la política monetaria del Banco Central de Chile ha mantenido
+tasas de interés relativamente bajas en los últimos años para estimular
+la economía, lo que ha tenido un impacto directo en el comportamiento
+del sector bancario. Según **Alfaro et al. (2015)**, el Banco de Chile
+ha sido capaz de mantener su rentabilidad en este entorno al
+diversificar sus productos y servicios, y al aprovechar oportunidades en
+el mercado de capitales.
+
+### Justificación de la Elección del Activo
+
+El **Banco de Chile** ha sido elegido para este análisis no solo por su
+importancia dentro del sistema bancario chileno, sino también por su
+capacidad de adaptarse a los cambios en el entorno macroeconómico. A lo
+largo de los años, el banco ha demostrado una sólida gestión del riesgo
+de tasas de interés y ha sido pionero en la adopción de nuevas
+tecnologías financieras para mejorar la eficiencia y ofrecer productos
+más competitivos. Esto lo convierte en un caso de estudio ideal para
+entender cómo las instituciones financieras pueden responder a los
+cambios en las tasas de interés y otros factores macroeconómicos.
+
+En resumen, la motivación para estudiar el impacto de la tasa de interés
+en el Banco de Chile radica en su influencia crucial sobre la
+rentabilidad y las decisiones estratégicas de la entidad. Además, el
+análisis de la literatura sugiere que la gestión efectiva de las tasas
+de interés es esencial para mantener la competitividad y estabilidad en
+el sector bancario.
+
+## Contexto
+
+En el sector bancario, el desempeño de los bancos como el **Banco de
+Chile (BCH)** está influenciado por múltiples variables económicas. En
+esta sección, se definirán y analizarán tres variables clave que
+impactan el sector: **tasa de interés**, **inflación** y **crecimiento
+económico**. Estas variables no solo afectan las decisiones de inversión
+de los bancos, sino también su capacidad de generar ingresos y gestionar
+riesgos financieros.
+
+### 1. Tasa de Interés
+
+La **tasa de interés** es la variable económica más relevante para los
+bancos, ya que afecta directamente los márgenes de interés neto (la
+diferencia entre los ingresos por préstamos y los costos de los
+depósitos). En particular, las tasas de interés de referencia, como la
+**Tasa de Política Monetaria (TPM)** establecida por el Banco Central de
+Chile, son esenciales para determinar las tasas aplicadas a los
+productos financieros del banco, incluyendo préstamos e hipotecas.
+
+#### Estadísticas
+
+En los últimos años, la TPM ha fluctuado significativamente. Durante la
+crisis de la COVID-19, el Banco Central redujo la TPM a niveles
+históricos (0,5%) para estimular la economía, lo que afectó los márgenes
+de los bancos debido a los menores ingresos por intereses. Sin embargo,
+con la recuperación económica, se ha visto un aumento gradual en la TPM,
+que alcanzó el 4,5% en 2022. Este comportamiento afecta tanto la demanda
+de créditos como los márgenes de ganancia del Banco de Chile.
+
+### 2. Inflación
+
+La **inflación** es otra variable clave que afecta la operación del
+Banco de Chile. Cuando la inflación es alta, el Banco Central tiende a
+subir las tasas de interés para controlar el aumento de los precios, lo
+que puede influir en los productos crediticios y los costos financieros
+de la entidad. Además, la inflación afecta el valor real del dinero y,
+por ende, los pagos que los bancos reciben en el futuro por los
+préstamos otorgados.
+
+#### Estadísticas
+
+Según el Instituto Nacional de Estadísticas (INE), la inflación en Chile
+ha sido volátil en la última década, oscilando entre un 2% y un 7%
+anual. En 2021, la inflación alcanzó el 7,2%, lo que impulsó al Banco
+Central a aumentar las tasas de interés de manera significativa para
+frenar el alza de precios. Este aumento en las tasas afecta directamente
+la rentabilidad de los préstamos a largo plazo otorgados por el Banco de
+Chile, debido al ajuste de las tasas aplicadas a los créditos.
+
+### 3. Crecimiento Económico (PIB)
+
+El **crecimiento económico**, medido a través del Producto Interno Bruto
+(PIB), también influye en el sector bancario. En tiempos de expansión
+económica, la demanda de préstamos aumenta, lo que genera mayores
+ingresos para los bancos. Por el contrario, durante períodos de
+recesión, la actividad crediticia disminuye, y los bancos enfrentan un
+mayor riesgo de impagos.
+
+#### Estadísticas
+
+El crecimiento económico de Chile ha mostrado fluctuaciones
+considerables en los últimos años. El PIB creció un 1,1% en 2019, se
+contrajo un 5,8% en 2020 debido a la pandemia, y luego se recuperó con
+un crecimiento del 11,7% en 2021. Estos cambios drásticos en la economía
+afectaron directamente la actividad crediticia del Banco de Chile, con
+una mayor demanda de préstamos durante el período de recuperación
+económica, lo que se tradujo en un aumento de los ingresos por
+intereses.
+
+### Relación con la Tasa de Interés
+
+Las tres variables mencionadas—**tasa de interés**, **inflación**, y
+**crecimiento económico**—están estrechamente interrelacionadas y tienen
+un impacto significativo en la operación del Banco de Chile. La **tasa
+de interés** no solo afecta los costos y los ingresos del banco, sino
+que también es una herramienta utilizada por el Banco Central para
+controlar la inflación y estimular o frenar el crecimiento económico.
+
+Estudios como los de **Mishkin (2012)** destacan que la política
+monetaria y las tasas de interés son esenciales para gestionar la
+inflación y el crecimiento económico, lo que a su vez impacta la
+estabilidad y rentabilidad de los
+bancos​:contentReference[oaicite:3]{index="3"}. Por su parte, **Claessens
+y Laeven (2004)** también señalan que la competencia bancaria está
+influenciada por las tasas de interés, ya que afectan la capacidad de
+los bancos para ofrecer productos financieros competitivos.
+
+## Derivados
+
+Un derivado financiero es un contrato cuyo valor depende de otro activo
+subyacente, como una acción o un bono. En el contexto del **Banco de
+Chile (BCH)**, un derivado comúnmente relacionado con su acción es la
+**opción financiera**. Las opciones sobre acciones del Banco de Chile
+permiten a los inversionistas especular sobre los movimientos futuros
+del precio de la acción o gestionar riesgos asociados a la inversión en
+el banco.
+
+### Opción de Compra (Call Option)
+
+Una **opción de compra (call)** otorga al comprador el derecho, pero no
+la obligación, de comprar una acción a un precio específico (llamado
+precio de ejercicio) antes o en una fecha determinada. En este caso,
+analizaremos una opción de compra sobre las acciones del **Banco de
+Chile**. Supongamos que el precio actual de la acción del Banco de Chile
+es de **\$1000 CLP**, y el inversionista tiene una opción de compra con
+un precio de ejercicio de **\$1050 CLP** y vencimiento en tres meses.
+
+### Evolución del Precio de la Acción
+
+El precio de las acciones del **Banco de Chile** ha mostrado
+fluctuaciones en los últimos años, influenciado por las tasas de interés
+y las condiciones macroeconómicas. A continuación, se muestran datos
+ficticios de la evolución del precio de la acción durante el último año:
+
+| Mes        | Precio (CLP) |
+|------------|--------------|
+| Enero      | \$950        |
+| Febrero    | \$960        |
+| Marzo      | \$980        |
+| Abril      | \$970        |
+| Mayo       | \$1000       |
+| Junio      | \$1020       |
+| Julio      | \$1050       |
+| Agosto     | \$1030       |
+| Septiembre | \$1070       |
+
+Como se puede observar, el precio de la acción ha oscilado entre
+**\$950** y **\$1070** CLP durante el último año. Estas fluctuaciones
+pueden tener un impacto significativo en el valor de las opciones sobre
+estas acciones, ya que el precio del subyacente determina el valor
+intrínseco de la opción.
+
+### Valoración de una Opción de Compra: Modelo Black-Scholes
+
+Para valorar esta opción de compra, utilizamos el **modelo
+Black-Scholes**, un método ampliamente utilizado para calcular el valor
+justo de una opción europea. Este modelo toma en cuenta varios factores,
+incluidos el precio del activo subyacente, el precio de ejercicio, la
+volatilidad, el tiempo hasta el vencimiento, y la tasa de interés libre
+de riesgo.
+
+#### Datos de Valoración:
+
+-   Precio actual de la acción del Banco de Chile (**S**): \$1000 CLP
+-   Precio de ejercicio de la opción (**K**): \$1050 CLP
+-   Tiempo hasta el vencimiento (**T**): 3 meses (0.25 años)
+-   Tasa de interés libre de riesgo (**r**): 4% anual
+-   Volatilidad (**σ**): 20%
+
+#### Fórmula Black-Scholes:
+
+El modelo Black-Scholes calcula el precio de una opción de compra con la
+siguiente fórmula:
+
+\[ C = S \cdot N(d_1) - K \cdot e\^{-rT} \cdot N(d_2) \]
+
+Donde: \[ d_1 = \frac{\ln(S/K) + (r + \sigma^2 / 2)T}{\sigma \sqrt{T}}
+\] \[ d_2 = d_1 - \sigma \sqrt{T} \]
+
+-   **S**: Precio actual de la acción (\$1000 CLP)
+-   **K**: Precio de ejercicio (\$1050 CLP)
+-   **r**: Tasa libre de riesgo (4% anual)
+-   **T**: Tiempo hasta el vencimiento (0.25 años)
+-   **σ**: Volatilidad del activo (20%)
+-   **N(d1)** y **N(d2)**: Funciones de distribución acumulada de la
+    normal estándar.
+
+#### Cálculo de Valor:
+
+1.  **d1** y **d2** se calculan como:
+
+\[ d_1 =
+\frac{\ln(1000/1050) + (0.04 + 0.2^2 / 2) \cdot 0.25}{0.2 \cdot \sqrt{0.25}}
+\approx -0.047 \] \[ d_2 = d_1 - 0.2 \cdot \sqrt{0.25} \approx -0.147 \]
+
+2.  Usamos las funciones de distribución normal estándar para **N(d1)**
+    y **N(d2)**:
+
+\[ N(d1) \approx 0.481 \] \[ N(d2) \approx 0.441 \]
+
+3.  Finalmente, el valor de la opción de compra se calcula como:
+
+\[ C = 1000 \cdot 0.481 - 1050 \cdot e\^{-0.04 \cdot 0.25} \cdot 0.441
+\approx 10.35 , \text{CLP} \]
+
+### Interpretación del Resultado
+
+El valor teórico de la opción de compra es de **10.35 CLP**. Esto
+significa que, según el modelo Black-Scholes, el inversionista debería
+pagar aproximadamente **10.35 CLP** por la opción de compra sobre la
+acción del Banco de Chile con las condiciones especificadas. La
+volatilidad del precio de la acción, así como el tiempo hasta el
+vencimiento y la tasa de interés libre de riesgo, son factores clave que
+influyen en el precio de la opción.
+
+Este ejemplo de valoración de una opción financiera muestra cómo los
+derivados pueden ser utilizados tanto para especulación como para la
+gestión de riesgos en el sector bancario, proporcionando a los
+inversionistas herramientas para gestionar su exposición a la
+volatilidad y las fluctuaciones en el precio de las acciones.
+
+## Conclusión
+
+El presente informe ha analizado el impacto de la **tasa de interés** en
+el **Banco de Chile (BCH)**, una de las principales instituciones del
+sector bancario chileno. La tasa de interés es una variable clave que
+afecta directamente la rentabilidad del banco, dado que influye en los
+márgenes de interés neto, el costo del financiamiento y la demanda de
+créditos. Durante los últimos años, las fluctuaciones en la tasa de
+interés, motivadas por las políticas monetarias del Banco Central de
+Chile, han tenido un impacto significativo en la operación y resultados
+financieros del Banco de Chile.
+
+Además de la tasa de interés, otras variables macroeconómicas como la
+**inflación** y el **crecimiento económico** juegan un rol importante en
+la estabilidad y el rendimiento del sector bancario. A lo largo de este
+informe, se ha destacado cómo estas variables afectan la capacidad del
+Banco de Chile para generar ingresos y gestionar riesgos financieros en
+un entorno de constante cambio.
+
+En cuanto a los derivados financieros, se mostró cómo la valoración de
+una **opción de compra (call)** sobre las acciones del Banco de Chile se
+ve influenciada por factores como la tasa de interés, la volatilidad del
+activo subyacente y el tiempo hasta el vencimiento. A través del modelo
+**Black-Scholes**, se pudo estimar el valor de esta opción, demostrando
+cómo los derivados pueden ser utilizados tanto para especular como para
+gestionar el riesgo en el sector financiero.
+
+En resumen, el análisis del Banco de Chile en relación con la tasa de
+interés y otros factores macroeconómicos subraya la importancia de una
+gestión adecuada del riesgo financiero. Las herramientas y modelos
+discutidos en este informe permiten a los inversionistas y a las
+instituciones financieras evaluar de manera más precisa las
+oportunidades y desafíos que presenta un entorno económico volátil. Este
+enfoque no solo es relevante para el Banco de Chile, sino también para
+el sector bancario en general, donde la toma de decisiones estratégicas
+se basa en una comprensión profunda de las variables económicas que
+afectan la rentabilidad y la estabilidad financiera.
